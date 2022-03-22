@@ -1,4 +1,32 @@
-# E-Commerce-Back-
+# E-Commerce-Back-End
+i bulid this work using javascript-express-MYSQL2-Sequelize,
+this app can be useful to many stores which can be 
+
+# 👀 Video Workthrough
+
+https://drive.google.com/file/d/1cWzwofTPGXgcp24aX842U4E24nBFYOJG/view?usp=sharing
+
+# 🚀 Features
+List Products ,add new,upodate and Delete items
+Filter products by ID
+
+# 💻 Technologies
+This project was made using the follow technologies:
+
+Node.js
+Express
+Mysql
+Sequelize
+
+# 👷 How to run
+* Install
+npm install
+run db/schema.sql => mysql -u root -p and write your password 
+run Seeds/index.js =>at the Root 
+nodemon server.js =>at the root
+
+
+
 
 ## Your Task
 
@@ -246,3 +274,8 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+# contact me Information 
+nameesmohammed12@gmail.com
